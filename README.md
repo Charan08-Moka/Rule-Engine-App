@@ -40,7 +40,7 @@ Navigate to Backend Directory:
 bash
 Copy code
 cd backend
-Install Dependencies for backend : npm install express mongoose cors nodemon 
+Install Dependencies for backend 
 
 bash
 Copy code
@@ -58,7 +58,7 @@ Navigate to Frontend Directory:
 bash
 Copy code
 cd frontend
-Install Dependencies: npm install axios 
+Install Dependencies for frontend 
 
 bash
 Copy code
